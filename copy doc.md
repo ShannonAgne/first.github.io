@@ -46,6 +46,8 @@ create an account on the ChatGPT webpage.
 
 8.  You now have a ChatGPT account and can begin entering prompts to
     strategically generate content from the tool's responses.
+    
+    ![ChatGPT Signup Process](./test.gif)
 
 # Using ChatGPT to generate content
 
