@@ -1,0 +1,139 @@
+# Introduction
+
+ChatGPT is a Microsoft-owned tool that uses artificial intelligence (AI)
+to respond to text-based messages. It's an extremely powerful tool with
+a variety of professional and recreational uses. Most importantly for
+technical communicators, it can be used to improve workflow and quality
+of work.
+
+Many writers, not just technical writers, are concerned about AI
+potentially replacing them in the workplace. While this is possible at
+some point in the future, today is not that day. Your job is safe for
+now. However, in the technical communication industry, it's important to
+leverage all the tools at your disposal to deliver the best possible
+work. Bonus points if you can improve your workflow and deliver work
+more quickly.
+
+There are suddenly many different AI-based content generators on the
+market which do similar things to ChatGPT. Some are tailored for
+specific needs and types of content. In this document we will explore
+ways ChatGPT can be used by professional technical writers.
+
+# Getting started
+
+To start using ChatGPT as a technical writing tool you will need to
+create an account on the ChatGPT webpage.
+
+1.  Browse to <https://chat.openai.com>.
+
+2.  Select **Sign up**.
+
+3.  Enter your **Email address** and select **Continue**.
+
+4.  Enter a **Password** and select **Continue**.
+
+5.  Open your email inbox and look for a message from OpenAI. Open the
+    message and select **Verify email address**.
+
+> Note: If you verify the email on a separate device or in a separate
+> browser, you will need to refresh the ChatGPT window.
+
+6.  Enter your **Name** and **Birthday**, and select **Continue**.
+
+7.  Enter your **Phone number** and select **Send code**. You will
+    receive a text message with the verification code. Enter the code
+    and select **Continue**.
+
+8.  You now have a ChatGPT account and can begin entering prompts to
+    strategically generate content from the tool's responses.
+
+# Using ChatGPT to generate content
+
+For our purposes of describing the ways ChatGPT can be used as a
+technical writing tool, our example topic will be *How to Make an
+Omelet*. Let's assume that we as the writer have never made an omelet
+before. We don't know what ingredients or tools we will need, and we're
+not sure what the procedure will look like.
+
+## Research
+
+Start by asking the tool -- *What is an omelet?*
+
+(Image? -- What is an omelet)
+
+> Note: Depending on the question, and the chat history, you may get a
+> different response than your colleague.
+
+Based on the first response, probe further -- *What ingredients and
+tools will I need?*
+
+(Image? -- What ingredients and tools)
+
+In the image above, the tool provides instructions as well. But what if
+your document is more specifically for making an omelet over a campfire?
+
+Get more specific -- *How do I make an omelet over a campfire with a
+cast iron skillet?*
+
+(Image? -- Campfire omelet instructions)
+
+The more specific and tailored your prompt is, the more specific and
+applicable the tool's response will be. This is the true power of
+ChatGPT. There are hundreds of different omelet recipes on the internet
+already, but I doubt there are very many campfire omelet recipes out
+there. This same method can be applied to more complex and specific
+topics to aid in the research process.
+
+## Outlining
+
+The research process will help you learn more about your topic. Now you
+need to determine the best way to transfer that knowledge to your
+audience. This part of the process provides us as technical writers with
+a bit of job security, at least for now.
+
+You cannot rely on the tool to analyze your audience for you. ChatGPT
+and tools like it will generate as much content as you want, but not all
+of it will be relevant or even correct.
+
+(Image? -- What else)
+
+Think about what your audience might want to know from a jobs-to-be-done
+perspective. Procedural tips for cooking the omelet may be helpful. What
+about the campfire?
+
+(Image? -- Campfire tips)
+
+It's up to you as the technical writer to curate the information so that
+your audience has everything they need and want, but they're not
+distracted by irrelevant information.
+
+## Generating copy
+
+Through the research and outlining processes, you will likely have
+amassed plenty of copy to work with. If more is needed, get more
+specific with your prompts. As you continue submitting prompts on the
+same chat thread, the tool will have more context to generate the
+responses you're looking for. Use the thumbs-up and thumbs-down icons in
+the top right corner of each response to indicate to the tool if the
+response was helpful or not.
+
+Clearly ChatGPT is capable of generating content much faster than any
+technical writer can. However, the tool isn't actually thinking about
+the answer and generating an original response. It's pulling data from
+things previously written by other people. Using verbatim any content
+generated by ChatGPT puts the writer at risk of plagiarism.
+
+In addition to the risk of plagiarism, in many cases the content
+generated by ChatGPT can be incorrect. At this point it should be used
+as a helpful nudge in the right direction, not as an ultimate source of
+truth. Be sure to thoroughly vet all information when using ChatGPT to
+build out sections of content.
+
+# Give it a try (conclusion)
+
+The best way to learn more about ChatGPT is to log in and start using
+it. Ask it about itself and it will tell you everything you want to
+know. Try researching a topic that's interesting to you and use your
+findings to write something useful to you or your peers. Use the
+strategies above to probe and develop your ideas into a cohesive
+deliverable.
